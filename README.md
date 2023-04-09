@@ -1,5 +1,5 @@
 
-<h2>Eu sou Everton Braga 🤝</h2><br/>
+<h2>Hello word! Eu sou Everton Braga 🤝</h2><br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-braga-5b644b269/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
